@@ -8,12 +8,12 @@ I decided to create a Python script that automatically moves this folder into a 
 pip install watchdog
 ```
 ## Usage
-Change the
+Change:
 ```python
 desktop_dir = "/Users/SophieMBerger/Desktop"
 destination_folder = "/Users/SophieMBerger/Documents/RelocatedItems"
 ```
-To point to your own Desktop path and the path of the directory you want to relocate the "Relocated Items" folder to.
+to point to your own Desktop path and the path of the directory you want to relocate the "Relocated Items" folder to.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
